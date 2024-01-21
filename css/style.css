@@ -104,6 +104,31 @@ a {
         line-height: 1.5;
         letter-spacing: 0.32px;
 }
-
-
+.span-blue {
+    color: #4D5AE5;
+}
+.header-nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    line-heigt: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.address-link {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-style: normal;
+}
+.address {
+    font-style: normal;
+}
+.address-link:hover,
+.address-link:focus,
+.header-nav-link:hover,
+.header-nav-link:focus {
+    color: #404BBF;
+}
 
