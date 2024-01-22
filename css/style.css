@@ -1,9 +1,7 @@
 body {
     color: #434455;
-    font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
-    border-bottom: #E7E9FC;
-    background-color: #FFF;
+    background-color: #ffffff;
 }
 
 ul {
@@ -20,19 +18,20 @@ a {
     align-items: center;
     flex-shrink: 0;
 }
-.header-navigation {
+.header-nav {
     display: inline-flex;
     align-items: flex-start;
     gap: 40px;
 }
 .header-logo-web {
-    color: #4D5AE5;
-    font-family: Raleway;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.16;
-    letter-spacing: 0.33em;
-    text-transform: uppercase;
+    color: var(--IRIS, #4D5AE5);
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.16;
+        letter-spacing: 0.33em;
+        text-transform: uppercase;
 }
 .header-logo-studio{
     color: #2E2F42);
@@ -131,4 +130,3 @@ a {
 .header-nav-link:focus {
     color: #404BBF;
 }
-
