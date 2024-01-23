@@ -106,21 +106,70 @@
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
+.section-three {
+    background-color: #F4F4FD;
+}
 
 .team-info {
     color: #2E2F42;
         font-size: 36px;
         font-weight: 700;
+        text-align: center;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+}
+.team-people-info {
+    background-color: #FFFFFF;
+}
+.team-people {
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.team-people-prof {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .portfolio {
     color: #2E2F42;
         font-size: 36px;
         font-weight: 700;
+        text-align: center;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+}
+
+.firm-propos {
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+} 
+
+.firm-propos-class {
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.end-info {
+    background-color: #2e2f42;
+}
+.span {
+    color: #f4f4fd;
+}
+
+.end-info-item {
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
