@@ -1,15 +1,6 @@
 body {
-    font-family: "Raleway", sans-serif;
     font-family: 'Roboto', sans-serif;
-    border-bottom: #E7E9FC;
     background: #ffffff;
-}
-
-.ul {
-    list-style-type: none;
-}
-.a {
-    text-decoration: none;
 }
 .header {
     display: flex;
@@ -50,8 +41,6 @@ body {
         letter-spacing: 0.02em;
 }
 
-.address {}
-
 .address-link {
     color: #434455;
         font-size: 16px;
@@ -67,7 +56,9 @@ body {
         line-height: 1.07;
         letter-spacing: 0.02em;
 }
-
+.button {
+    cursor: pointer;
+}
 .button-text {
     color: #FFF;
         font-size: 16px;
@@ -117,7 +108,4 @@ body {
         text-transform: capitalize;
 }
 
-.finish-info {
-    background: #2E2F42;
-}
 
