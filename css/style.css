@@ -1,11 +1,12 @@
 .body {
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #ffffff;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    background-color: #ffffff;
+    
 }
 
 .header-logo {
@@ -172,5 +173,8 @@
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.span-logo-white {
+    color: #F4F4FD;
 }
 
