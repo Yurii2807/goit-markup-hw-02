@@ -67,7 +67,7 @@ body {
 
 .button:hover,
 .button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .button-text {
@@ -90,7 +90,7 @@ body {
         text-transform: capitalize;
 }
 
-.header3-info {
+.header-info {
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
